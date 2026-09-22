@@ -5,7 +5,6 @@
 **Aspiring IT Professional · Building Solutions for a Digital Future**
 IT Student at the University of Oulu, Finland 🇫🇮
 
-[![GitHub followers](https://img.shields.io/github/followers/Umar2505?label=Follow&style=social)](https://github.com/Umar2505)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-rustamov/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/umarrustamov)
 
