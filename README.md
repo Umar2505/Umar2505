@@ -6,6 +6,8 @@
 IT Student at the University of Oulu, Finland 🇫🇮
 
 [![GitHub followers](https://img.shields.io/github/followers/Umar2505?label=Follow&style=social)](https://github.com/Umar2505)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-rustamov/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/umarrustamov)
 
 </div>
 
@@ -25,15 +27,12 @@ I'm a student developer who likes to build full, working systems rather than iso
 ### Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
@@ -51,19 +50,20 @@ I'm a student developer who likes to build full, working systems rather than iso
 
 ---
 
-### GitHub stats
+### Coursework & hackathon projects
 
-<div align="center">
-
-![Umar2505's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umar2505&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umar2505&layout=compact&hide_border=true)
-
-</div>
+| Project | What it does |
+|---|---|
+| 🌕 **[Lunar Explorer](https://github.com/Umar2505/lunar-explorer)** | Built for the "Make Moonquake Map 2.0" challenge — a Django app that visualizes lunar seismic data on an interactive 3D moon globe for education and research use. |
+| 🛒 **CS50 Commerce** | An eBay-style auction platform (CS50 final-course project): users can post listings, place bids, comment, and maintain a watchlist. |
+| 💣 **Minesweeper** | A classic single-player Minesweeper implementation — locate all mines on the board without triggering one. |
 
 ---
 
 ### Get in touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Umar2505)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-rustamov/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/umarrustamov)
 
 <sub>Thanks for stopping by — feel free to open an issue or PR on any of my repos if something catches your eye.</sub>
